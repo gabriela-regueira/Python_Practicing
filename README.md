@@ -7,19 +7,15 @@ Repository of my last practicing projects files in Python for data analysis
 
 # Sobre mim
 
-Nascida e criada em Salvador, na Bahia, me mudei sozinha com 17 anos para Curitiba para cursar Engenharia Elétrica na Universidade Tecnológica Federal do Paraná(UTFPR).
-Durante a graduação fiz um intercâmbio para os EUA, onde morei por 1 ano e meio, e estagiei numa Refinaria de óleo de soja, com automação de máquinas através de CLP (Controladores Lógico Programáveis).
-Voltei pro Brasil, e estagiei no Porto de Paranaguá, na área Comercial. Em seguida estagiei numa Consultoria de Eficiência Energética e Sustentabilidade, onde aprimorei meu inglês escrevendo documentação para certificação LEED. Fiz dezenas de simulações de iluminação natural e artificial, e aprendi sobre storytelling.
-Terminando minha graduação, passei num programa de Trainee da BRF (Sadia e Perdigão). Fiz um job rotation por todo o Brasil (SP-PE-RJ-PR). Visitei produtores, fábricas, p&d, marketing... todas as áreas para entender a sinergia da cadeia de uma das maiores produtoras de proteína animal do mundo.
-Ao final do trainee, trabalhei como Analista Senior de Projetos Logísticos, onde mergulhei no mundo dos dados de forma mais consistente. Participei de projetos de produtividade, e análise de performance, a fim de implementar melhorias na operação logística. Em pouco tempo fui promovida à Especialista de Gestão e Performance, onde desenvolvi mais de 32 indicadores, 342 metas e 7438 reports gerenciais para Logística Nacional.
-
+Nascida e criada em Salvador, na Bahia, me mudei com 17 anos para Curitiba, Paraná, para cursar Engenharia Elétrica na Universidade Tecnológica Federal do Paraná(UTFPR).
+Depois de alguns estágios (incluindo uma experiência internacional!), me graduei e passei no Programa de Trainee da BRF (Sadia/Perdigão). Rodei o Brasil de ponta a ponta, aprendi sobre o varejo, a cadeia produtiva, e principalmente a logística de distribuição de produtos! Completei diversos projetos de produtividade, treinei colaboradores sobre métodos de melhoria contínua, até chegar à gestão estratégica de indicadores. Desenhei mais de 42 indicadores, calculei mais de 326 metas e apresentei mais de 730 relatórios de performance.
 Hoje estou "mudando de lado". Com conhecimento da área de negócio, quero desenvolver modelos preditivos capazes de direcionar decisões assertivas dos gestores. Sei que consigo me comunicar bem com esse público, para chegar em soluções factíveis e aplicáveis pro negócio.
 
-**Conhecimentos em:** Python, Machine Learning, Power BI, SQL, Lean SixSigma, Agile.
+**Conhecimentos em:** Python, Machine Learning, Power BI, R, SQL, Lean SixSigma, Agile.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/gabriela-regueira)
-* [Medium](https://www.medium.com/gabrielareg)
+* [Medium](https://www.medium.com/@gabrielareg)
 
 
 ## Projetos:
