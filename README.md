@@ -21,7 +21,7 @@ Hoje estou "mudando de lado", da área de Negócio para área de Dados. A possib
 
 ## Projetos:
 
-* **Estatística Descritiva com Cartas de Baralho:** https://bit.ly/2L2cMwy
+* **Estatística Descritiva com Cartas de Baralho:** https://bit.ly/3ogwbKY
 * **Prevendo a inadimplência de Clientes:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
