@@ -2,7 +2,7 @@
 Repository of my last practicing projects files in Python for data analysis
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="Simple Work LinkedIn Banner.png" >
 </p>
 
 # Sobre mim
