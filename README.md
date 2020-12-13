@@ -25,5 +25,6 @@ Hoje estou "mudando de lado", da área de Negócio para área de Dados. A possib
 * **Estatística Descritiva com Cartas de Baralho:** https://bit.ly/3ogwbKY
 * **Classificando Câncer de Mama com SVM:** https://bit.ly/37HmtdU
 * **Clustering Universities using KMean Method [EN]:** https://bit.ly/3756wiC
+* **Anti-spam filter using NLP [EN]:** https://bit.ly/2IJXHS4
 ---
 
