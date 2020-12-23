@@ -7,10 +7,11 @@ Repository of my last practicing projects files in Python for data analysis
 
 # Sobre mim
 
-Nascida e criada em Salvador, na Bahia, me mudei (sozinha) com 17 anos para Curitiba, para cursar Engenharia Elétrica na Universidade Tecnológica Federal do Paraná (UTFPR).
-
-Depois de alguns estágios (incluindo uma experiência internacional!), me graduei e passei no Programa de Trainee da BRF (Sadia/Perdigão). Rodei o Brasil de ponta a ponta, aprendi sobre o varejo, a cadeia produtiva, e principalmente a logística de distribuição de produtos! Participei de diversos projetos de produtividade, treinei colaboradores sobre métodos de melhoria contínua, até chegar à gestão estratégica de indicadores. Desenhei mais de 42 indicadores, calculei mais de 326 metas e apresentei mais de 730 relatórios de performance.
-Hoje estou "mudando de lado", da área de Negócio para área de Dados. A possibilidade de, dentre outras coisas, "prever o futuro" é uma vantagem competitiva sem precedentes! Quero desenvolver modelos capazes de direcionar decisões assertivas, comunicando de forma clara e objetiva as soluções aplicáveis ao Negócio.
+Nascida e criada em Salvador, na Bahia, me mudei (sozinha) com 17 anos para Curitiba, onde moro até hoje. Durante minha formação em Engenheira Elétrica, estagiei em fábrica, porto e consultoria (incluindo uma experiência internacional!).
+Ao concluir minha formação, entrei no Programa de Trainee da BRF (Sadia/Perdigão). Rodei o Brasil de ponta a ponta, aprendi sobre o varejo, a cadeia produtiva, e principalmente a logística de distribuição de produtos! Participei de diversos projetos de produtividade, treinei colaboradores sobre métodos de melhoria contínua, até chegar à gestão estratégica de indicadores. 
+Desenhei mais de 42 indicadores, calculei mais de 326 metas e apresentei mais de 730 relatórios de performance!
+Sempre fui apaixonada por este espaço onde a matemática e a gestão de negócios se cruzam, e devido às minhas experiências acadêmicas e profissionais, tenho facilidade em me comunicar com esses dois universos que muitas vezes não falam a mesma língua.
+Atualmente estou aperfeiçoando meus conhecimentos em Machine Learning, a fim de ir além da visualização dos dados e ser capaz de contribuir com insights mais assertivos através da análise preditiva dos dados.
 
 **Conhecimentos em:** Python, R, Machine Learning, Power BI, SQL, Lean SixSigma, Agile.
 
